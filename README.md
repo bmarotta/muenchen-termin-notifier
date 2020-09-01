@@ -9,6 +9,7 @@ The purpose of this package is to help people in Munich getting an appointment i
 1. Check-out/Clone
 
 2. Install the needed npm packages 
+
     npm install
 
 3. Adjust the e-mail config in the index.js
@@ -16,6 +17,7 @@ The purpose of this package is to help people in Munich getting an appointment i
 4. Adjust/extend the use case in the index.js
 
 5. Run with node 
+
     node .
     
 6. For windows users => Add a scheduler task to call Run.bat every X minutes
